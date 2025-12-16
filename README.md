@@ -1,0 +1,21 @@
+# ZZ Top – Rough Boy
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:42.13] What in the world's come all over me?
+[00:48.34] I ain't got a chance of one in three
+[00:53.87] Ain't got no rap, ain't got no line
+[00:59.45] But if you'll give me just a minute I'll be feelin' fine
+[01:06.69] I am the one who can fade the heat
+[01:12.38] The one they all say just can't be beat
+[01:18.34] I'll shoot it to you straight and look you in the eye
+[01:24.46] So give me just a minute and I'll tell you why
+[01:30.20] I'm a rough boy, I'm a rough boy
+[01:46.20] 
+[02:10.17] I don't care how you look at me
+[02:15.98] Because I'm the one and you will see
+[02:22.31] We can make it work, we can make it by
+[02:28.07] So give me one more minute and I'll tell you why
+[02:33.70] I'm a rough boy, I'm a rough boy
+```
